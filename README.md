@@ -29,6 +29,8 @@ The core focus is on designing and training a **CNN-based model** and comparing 
   - Blurred images  
 ### 🔍 System Architecture / Sample Results
 <img src="/result-1.PNG" width="720">
+<img src="/result-2.PNG" width="720">
+<img src="/result-3.PNG" width="720">
 ## ✅ Results
 - **RGB color model achieved highest performance**
   - Accuracy: **97%**
