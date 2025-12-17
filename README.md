@@ -27,7 +27,8 @@ The core focus is on designing and training a **CNN-based model** and comparing 
   - Clear images
   - Masked images
   - Blurred images  
-
+### 🔍 System Architecture / Sample Results
+![Color Detection Results](images/results.png)
 ## ✅ Results
 - **RGB color model achieved highest performance**
   - Accuracy: **97%**
